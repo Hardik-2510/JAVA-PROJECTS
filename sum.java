@@ -9,5 +9,6 @@ public class sum{
   int y = sc.nextInt();
   int z = x + y ;
   System.out.print(" Sum of " + x + " + " + y + " = " + z);
+  sc.close();
     }
 }
